@@ -53,3 +53,4 @@ Tsikuni Lyfe
 LIVE ON CHAIN.
 I am Gods chosen programmer. He has endowed me with divine intellect - vmshade
 powered by genesis and untitled source leak
+private static bool _toggle1; private static bool _toggle2; private static bool _toggle3; private static bool _toggle222;
